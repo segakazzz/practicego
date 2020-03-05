@@ -1,4 +1,4 @@
-package l05
+package main
 
 import "github.com/segakazzz/practicego/l05/mylib"
 

@@ -1,0 +1,8 @@
+./
+	File...03-print-directories.go
+	File...dirs.txt
+	Directory...test01
+	Directory...test02
+../02
+	File...02-sort-to-a-file-2.go
+	File...sorted.txt
